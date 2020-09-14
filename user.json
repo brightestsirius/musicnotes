@@ -1,0 +1,24 @@
+{
+  "user": {
+    "shipping": {
+      "title": "Shipping & Handling",
+      "value": 0
+    },
+    "discount":{
+      "title": "Discount",
+      "value": 2
+    },
+    "coupon":{
+      "title": "Coupon",
+      "value": 5
+    },
+    "tax":{
+      "title": "Tax",
+      "value": 0
+    },
+    "giftCard":{
+      "title": "Gift Card",
+      "value": 3
+    }
+  }
+}
