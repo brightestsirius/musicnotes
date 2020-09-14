@@ -1,5 +1,7 @@
 {
   "user": {
+    "id": 345,
+    "name": "John Smith",
     "shipping": {
       "title": "Shipping & Handling",
       "value": 0
